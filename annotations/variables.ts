@@ -36,11 +36,11 @@ let truths: boolean[] = [true, true, false];
 
 // Classes
 
-class Car {
+class Movie {
 
 }
 
-let car: Car = new Car();
+let movie: Movie = new Movie();
 
 // Object literal: creating a variable with its type, as well as the curly
 // braces defining the types of key/value pairs within said variable.
